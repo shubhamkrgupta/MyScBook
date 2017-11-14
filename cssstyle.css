@@ -1,0 +1,144 @@
+body{
+	
+	background-color:rgb(172,107,225);
+	
+
+}
+
+.fa-facebook{
+	
+	padding:10px;
+	text-decoration:none;
+	color:white;
+	border-radius:35%;
+	font-size:24px;
+	background:blue;
+}
+
+.fa-phone-square{
+	
+	padding:10px;
+	text-decoration:none;
+	color:grey;
+	border-radius:35%;
+	font-size:24px;
+	background:black;
+
+}
+.fa-github{
+	padding:10px;
+	text-decoration:none;
+	color:white;
+	border-radius:35%;
+	font-size:24px;
+	background:black;
+}
+
+
+	
+
+h1{
+	color:rgb(225,231,107);
+	padding:0px;
+	text-size:	;
+	text-decoration:none;
+	font-family:default;
+	text-align:justify;
+}
+
+h2{
+	color:	;
+	padding:0px;
+	text-size:	;
+	text-decoration:none;
+	font-family:	;
+	text-align:align:center	;
+}
+
+h3{
+	color:white;
+	padding:0px;
+	text-size:	;
+	text-decoration:none;
+	font-family:	;
+	text-align:		;
+}
+
+h4{
+ 	color:yellow;
+ 	padding:0px;
+ 	text-size:	;
+ 	text-decoration:none;
+ 	font-family:	;
+ 	text-align:align:center	;
+}
+
+h5{
+	color:violet;
+	padding:0px;
+	text-size:	;
+	text-decoration:none;
+	font-family:	;
+	text-align:		;
+}
+
+h6{
+	color:blue;
+	padding:0px;
+	text-size:	;
+	text-decoration:none;
+	font-family:	;
+	text-align:center;
+}
+
+p{color:rgb(0,0,0);
+	padding:10px;
+	text-size:34px;
+	text-decoration:none;
+	font-family:ti,es new romans;
+	text-align:center;
+}
+
+	
+hr{border-top:	;
+	border-bottom:	;
+	width:	;
+}
+
+
+
+a:link{	
+	color:yellow; 
+	background-color:	;
+	text-decoration:none;
+}
+
+a:visited{
+	color:purple; 
+	background-color:	; 
+	text-decoration:none;
+}
+
+a:hover{
+	color:orange; 
+	background-color:	; 
+	text-decoration:italic;
+}
+
+a:active{
+	color:#548936; 
+	background-color:	; 
+	text-decoration:none;
+}
+
+
+
+ul{
+	link-style-type:disk;
+	color:black;
+}
+
+ol{
+	type="i"; padding:40px;
+	color:	black;
+}
